@@ -1,1 +1,1 @@
-# bulletin-board-api
+# sample-api
